@@ -10,7 +10,7 @@
 <p align="center"><img src="images/person_waving.png"></p>
 
 - `whoami` A Master of Data Science Student at University at Buffalo 
-- `uptime` 23 years
+- `uptime` 24 years
 - `pwd` Buffalo, New York
 - `ps -a` Currently learning Algorithms and Visualization Tool.
 
@@ -24,6 +24,13 @@
 <details>
   <summary>📃 My Resume</summary>
 
+## Experience
+- 👨‍💻 **Data Scientist**\
+📆 May 2022 - Present\
+📍 **Sumitomo Rubber LLC** - Buffalo,New York
+ </details>
+
+
 ## Education
 
 - 📖 **Master of Engineering Science in Data Science**\
@@ -35,12 +42,6 @@
 📆 2017 - 2021\
 📍 **Rajiv Gandhi Institute Of Technology** - Mumbai, India
 
-
-## Experience
-- 👨‍💻 **Data Analyst Intern**\
-📆 May 2022 - Present\
-📍 **Sumitomo Rubber LLC** - Buffalo,New York
- </details>
 
 <h3 align="left">Connect with me:</h3>
 <p align='center'>
